@@ -1,5 +1,5 @@
 Prodigy InfoTech Data Science Internship Task 4:
-<br> <img src="https://github.com/pavanitanmayasri/Prodigy-InfoTech-DataScience-Internship/blob/main/ds4.png">
+<br> <img src="https://github.com/pavanitanmayasri/Prodigy-InfoTech-DataScience-Internship-task-4/blob/main/ds4.png">
 
 Welcome to my submission for Task 4 of the Data Science Internship at Prodigy Infotech.
 In this task, I focused on advanced data analysis and model evaluation, including performance comparison, result interpretation, and visualization of outcomes to draw meaningful conclusions from the dataset.
